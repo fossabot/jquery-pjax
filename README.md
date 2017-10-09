@@ -1,4 +1,6 @@
 # pjax = pushState + ajax
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fjquery-pjax.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fjquery-pjax?ref=badge_shield)
+
 
 
             .--.
@@ -429,3 +431,7 @@ Deploying a deploy, bumping the version constant to force clients to do a full r
 [turbolinks]: https://github.com/rails/turbolinks
 [railscasts]: http://railscasts.com/episodes/294-playing-with-pjax
 [bower]: https://github.com/twitter/bower
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fjquery-pjax.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fjquery-pjax?ref=badge_large)
